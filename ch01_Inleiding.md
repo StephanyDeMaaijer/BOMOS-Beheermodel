@@ -55,7 +55,7 @@ De laatste concept versie 3.0 BOMOS is gepubliceerd in twee delen: [BOMOS Fundam
 ## Bomos
 
 Logius richt de beheerorganisatie in conform het Beheer en
-OntwikkelModel voor Open Standaarden (BOMOS). Ook dit beheer document is
+OntwikkelModel voor Open Standaarden (BOMOS). Ook dit beheerdocument is
 op basis van BOMOS ingericht.
 
 ![Bomos model](images/image3.png "BOMOS model")
