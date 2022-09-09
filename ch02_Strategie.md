@@ -93,9 +93,7 @@ suggesties worden door Logius verzameld en voorgelegd aan het UG en AO.
 ### Organisatiestructuur
 
 Voor BOMOS is er nog geen organisatie structuur beschreven, momenteel
-wordt hier
-
-aan gewerkt, organisatiestructuur in het figuur hieronder wordt
+wordt hier aan gewerkt, organisatiestructuur in het figuur hieronder wordt
 onderzocht. Bij het beschrijven en borgen van dit beheerdocument worden
 alle activiteiten die nodig zijn voor het beheer van BOMOS onderzocht en
 uitgewerkt. Dit beheer document zal voor review en officiële goedkeuring
@@ -121,7 +119,7 @@ Deelnemers Adviesorgaan/klankboordgroep:
 -   KOOP
 -   TNO
 -   Bureau Forum Standaardisatie
--   Informatie Huis Water
+-   Informatiehuis Water
 -   RIONED
 -   Logius afdeling Stelsels
 -   Logius afdeling Standaarden
@@ -147,8 +145,8 @@ hoe de besluitvorming is ingericht. Daarbij is alleen meerderheid of
 consensus besluitvorming toegestaan. Waarbij aangegeven kan worden of er
 meerdere stemmingsronden mogelijk zijn.
 
-Voor het beheer van BOMOS is nog een eigen budget zoals andere
-standaarden of stelsels van Logius beheerd worden. Om die reden is er
+Voor het beheer van BOMOS is nog geen eigen budget zoals voor andere
+standaarden of stelsels die door Logius beheerd worden wel het geval is. Om die reden is er
 ook nog geen strategisch beraad ingesteld dat verantwoordelijk is voor
 het meerjarenplan en roadmap die als standaardisatieagenda fungeert voor
 de inhoudelijke visie over de richting van de ontwikkeling van BOMOS.
@@ -176,7 +174,7 @@ het basisprogramma, het beheer van BOMOS. Voor het basisprogramma, het
 beheer van BOMOS, treedt het bestuur, Directie Digitale Samenleving op
 als stuurgroep. Het bestuur Directie Digitale Samenleving beoordeelt en
 beslist over wijzigingsvoorstellen en stelt een nieuwe (versie) van
-BOMOS vast die bij Logius is in beheer is. Het adviesorgaan is
+BOMOS vast die bij Logius in beheer is. Het adviesorgaan is
 aanspreekpunt voor klachten over het beheer van BOMOS door Logius. In de
 werkgroepen wordt inhoudelijk en praktijkgerichte kennis uitgewisseld,
 de samenwerking met andere standaardisatieorganisaties is een belangrijk
@@ -184,7 +182,7 @@ onderdeel voor de doorontwikkeling en beheer van BOMOS.
 
 ### Sturing strategisch
 
-Er is transparante besturing op strategisch niveau aanwezig die past bij
+Er is transparante sturing op strategisch niveau aanwezig die past bij
 de ambities van de standaard.
 
 Het operationeel beheer van BOMOS wordt uitgevoerd door de
