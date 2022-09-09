@@ -56,7 +56,7 @@ Issues die in behandeling worden genomen worden als RFC gelabeld
 2.  RFC\'s worden vastgesteld in het Adviesorgaan BOMOS (Advies Groep -
     AG) Tactisch
 
-3.  RFC worden na vaststelling door de Directie Digitale Samenleving
+3.  RFC\'s worden na vaststelling door de Directie Digitale Samenleving
     (Bestuur groep - BG) Strategisch geconsulteerd en na vaststelling
     volgt publicatie van de nieuwe versie van standaard
 
