@@ -17,12 +17,10 @@ onderwerp gewerkt, dit vormde het startpunt voor de ontwikkeling van
 BOMOS versie 1 en 2. De methodiek is sindsdien ondergebracht bij Logius
 en is toe aan een nieuwe versie. Daarnaast is er behoefte aan tooling
 (op basis van BOMOS) ter ondersteuning van het beheren van stelsels en
-standaarden. Logius beheerd stelsels en **standaarden** met behulp van
-
+standaarden. Logius beheerd stelsels en **standaarden** met behulp van 
 BOMOS maar de methodiek zelf wordt momenteel niet actief beheerd. Om de
 methodiek conform BOMOS actief te beheren en door te ontwikkelen zijn we
-recent gestart met een werkgroep en het schrijven van dit
-beheerdocument.
+recent gestart met een werkgroep en het schrijven van dit beheerdocument.
 
 ## Nut
 
@@ -40,7 +38,7 @@ interoperabiliteit. Duurzaam kan alleen als het ontwikkel- en
 beheerproces op een kwalitatief hoogstaand niveau is ingericht. Dit
 document levert een bijdrage om de ontwikkeling en beheer van de
 standaard op een hoger plan te krijgen en daarmee duurzame standaarden
-en Stelsels te realiseren. Uiteraard is een duurzame standaard een open
+en stelsels te realiseren. Uiteraard is een duurzame standaard een open
 standaard die duurzaam beheerd wordt.
 
 ### Status
