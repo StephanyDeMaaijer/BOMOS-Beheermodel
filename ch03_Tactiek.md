@@ -154,7 +154,7 @@ Het gebruik van BOMOS is niet vanzelfsprekend. De toepassing en het
 beheer ervan in praktijk brengen is ons uiteindelijke doel. De community
 en werkgroepen zijn hierbij van wezenlijk belang. Voor de adoptie en
 erkenning van de standaard door het werkveld, heeft Logius, de standaard
-ook aangeboden ter publicatie aan de beheersorganisatie en aan het Forum
+ook aangeboden ter publicatie aan de beheerorganisatie en aan het Forum
 Standaardisatie. Zij adviseren ook in het gebruik van de standaarden. In
 samenwerking met de beheerorganisaties welke deelnemen aan de
 werkgroepen en aan de community streven wij naar adoptie en erkenning.
