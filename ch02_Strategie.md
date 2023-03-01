@@ -119,7 +119,7 @@ Deelnemers Adviesorgaan/klankboordgroep:
 -   KOOP
 -   TNO
 -   Bureau Forum Standaardisatie
--   Informatie Huis Water
+-   Informatiehuis Water
 -   RIONED
 -   Logius afdeling Stelsels
 -   Logius afdeling Standaarden
